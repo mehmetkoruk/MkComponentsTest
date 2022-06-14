@@ -9,7 +9,7 @@ Pod::Spec.new do | spec |
  
   spec.author             = { "Mehmet Körük" => "mehmet.koruk@erstream.com" }
   spec.platform     = :ios, "15.4"
-  spec.source       = { :git => "https://github.com/mehmetkoruk/MkComponentsTest.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/mehmetkoruk/MkComponentsTest.git",:branch => 'main', :tag => spec.version.to_s }
 
 
 

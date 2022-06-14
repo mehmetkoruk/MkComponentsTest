@@ -6,5 +6,6 @@ target 'ExampleProject' do
   use_frameworks!
 
   # Pods for ExampleProject
-  pod 'MkComponentsTest' , :path => '../MkComponentsTest'
+ # pod 'MkComponentsTest' , :path => '../MkComponentsTest'
+ pod 'MkComponentsTest' , :git => 'https://github.com/mehmetkoruk/MkComponentsTest.git', :branch => 'main'
 end
