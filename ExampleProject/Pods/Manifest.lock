@@ -1,0 +1,16 @@
+PODS:
+  - MkComponentsTest (1.0.0)
+
+DEPENDENCIES:
+  - MkComponentsTest (from `../MkComponentsTest`)
+
+EXTERNAL SOURCES:
+  MkComponentsTest:
+    :path: "../MkComponentsTest"
+
+SPEC CHECKSUMS:
+  MkComponentsTest: 6683704f27539681e0d2f947f9058fafb700fef0
+
+PODFILE CHECKSUM: 77ac46b1c2a2209c8aae6a166b0ac593f98aeedc
+
+COCOAPODS: 1.11.2
